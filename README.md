@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe Sacramento 👋
 
-🎓 Graduando em **Sistemas de Informação** pela UFS  
+🎓 Graduado em **Sistemas de Informação** pela UFS  
 💻 Focado em **desenvolvimento de software, análise de sistemas e aplicações web**  
 📍 Sergipe, Brasil  
 
