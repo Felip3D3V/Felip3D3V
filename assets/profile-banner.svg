@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="264" viewBox="0 0 960 264" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Sacramento | Engenheiro de Software</title>
+  <desc id="desc">Banner azul-escuro com trilhas de circuito em ciano e destaque para C#, .NET e APIs REST.</desc>
+  <defs>
+    <linearGradient id="background">
+      <stop offset="0" stop-color="#0c1629"/>
+      <stop offset="1" stop-color="#11263c"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop offset="0" stop-color="#7ef0dd"/>
+      <stop offset="1" stop-color="#67b7ff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#85b2d4" stroke-opacity=".16"/>
+    </pattern>
+    <linearGradient id="grid-fade">
+      <stop offset="0" stop-color="#0c1629"/>
+      <stop offset=".58" stop-color="#0c1629" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#0c1629" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="960" height="264" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="960" height="264" fill="url(#background)"/>
+    <rect width="960" height="264" fill="url(#grid)"/>
+    <rect width="960" height="264" fill="url(#grid-fade)"/>
+    <g fill="none" stroke="#39758e" stroke-width="1.5">
+      <path d="M963 36H869L837 68V92M963 226H856L826 196V173"/>
+      <path d="M962 64H892L865 91H849M963 201H885L858 174H843"/>
+      <path d="M730 19V52L758 80V94M717 243V217L747 187V165"/>
+      <path d="M680 64H705L731 90V109H751M682 200H704L731 173V151H751"/>
+    </g>
+    <g fill="#80ebdd">
+      <circle cx="730" cy="19" r="3"/>
+      <circle cx="717" cy="243" r="3"/>
+      <circle cx="680" cy="64" r="3"/>
+      <circle cx="682" cy="200" r="3"/>
+    </g>
+    <rect x="751" y="87" width="105" height="90" rx="15" fill="#102337" stroke="#53a7b6" stroke-width="1.5"/>
+    <rect x="761" y="97" width="85" height="70" rx="10" fill="none" stroke="#294d66"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m790 124-9 8 9 8m27-16 9 8-9 8m-9-21-9 26"/>
+    </g>
+    <rect x="48" y="47" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="48" y="83" fill="#a6c1d9" font-family="Consolas, Menlo, monospace" font-size="18">Felip3D3V</text>
+    <text x="46" y="145" fill="#f1f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Felipe Sacramento</text>
+    <text x="48" y="184" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Engenheiro de Software</text>
+    <text x="48" y="224" fill="#b0c9df" font-family="Consolas, Menlo, monospace" font-size="18">C#  /  .NET  /  APIs REST</text>
+  </g>
+  <rect x=".75" y=".75" width="958.5" height="262.5" rx="19.25" fill="none" stroke="#31516a" stroke-width="1.5"/>
+</svg>
